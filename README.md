@@ -1,2 +1,1 @@
-# breachcheaker
-A secure web application for checking email addresses and passwords against data breach databases using the Have I Been Pwned API. Built with React, TypeScript, Tailwind CSS, and Flask.
+- [K-Anonymity Explanation](https://www.troyhunt.com/understanding-have-i-been-pwneds-use-of-sha-1-and-k-anonymity/)
